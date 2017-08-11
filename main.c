@@ -9,7 +9,13 @@ int main(){
 	printf("Helloo!") ;
 
 	printf("Guess who is back!") ;
-	printf("This is getting ridiculous") ;
+	printf("This is getting ridiculous") 
+
+	printf("Hahhaha") ;
+
+printf("Hahhadgfdgha") ;
 
 	return 0;
 }
+
+
