@@ -8,12 +8,8 @@ int main(){
 	printf("Danas je petak!") ;
 	printf("Helloo!") ;
 
-	printf("Guess who is back!") ;
-	printf("This is getting ridiculous") 
-
-	printf("Hahhaha") ;
-
-printf("Hahhadgfdgha") ;
+	printf("Guess    who dfgdfis back!") ;
+	
 
 	return 0;
 }
