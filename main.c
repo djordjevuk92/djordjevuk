@@ -5,7 +5,7 @@ int main(){
 
 	printf("Hello world!");
 	printf("Zdravo, svijete!");
-	printf("Jedan dva") ;
+	printf("Danas je petak!") ;
 
 	return 0;
 }
